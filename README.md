@@ -1,2 +1,2 @@
 # wprocket-disable-lazyload
-Will stop lazyload feature of wp rocket
+Disables WP Rocket's LazyLoad features when CookieFirst scanners pass by
